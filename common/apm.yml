@@ -1,6 +1,6 @@
 name: apm-plackage-common
-version: 0.3.0
-description: Shared baseline agent configuration for every mazrean repository.
+version: 0.4.0
+description: Shared baseline agent configuration for every mazrean repository. Ships the rtk output-compression hook for Claude Code.
 dependencies:
   apm:
   - mazrean/agent-skills/skills/committing-code

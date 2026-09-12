@@ -12,6 +12,7 @@ Each top-level directory (`common/`, `go/`, `zig/`, `cloudflare/`, `frontend/`, 
   .apm/
     instructions/*.instructions.md # auto-loaded instruction files (with applyTo glob)
     skills/<name>/SKILL.md         # apm-dependency-<package> + future skills
+    hooks/*.json                   # optional; merged into the client's hook settings
     prompts/*.prompt.md            # optional
 ```
 

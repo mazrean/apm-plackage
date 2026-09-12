@@ -6,7 +6,7 @@ Shared APM (Agent Package Manager) packages for [mazrean](https://github.com/maz
 
 | Package | Purpose |
 |---|---|
-| `common` | Shared baseline for every repo: spec-driven skills, commit conventions, deepwiki MCP. |
+| `common` | Shared baseline for every repo: spec-driven skills, commit conventions, deepwiki MCP, rtk output-compression hook. |
 | `go` | Go projects (libraries, CLIs, servers). |
 | `zig` | Zig projects. |
 | `cloudflare` | Cloudflare Workers projects (depends on `frontend`). |
